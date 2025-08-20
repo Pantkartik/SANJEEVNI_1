@@ -1,0 +1,14 @@
+[
+  { "id": 201, "question": "How stressed do exams/assignments make you feel?", "options": ["Not at all", "A little", "Quite a bit", "Extremely"], "polarity": "neg" },
+  { "id": 202, "question": "How often do you feel overwhelmed by study workload?", "options": ["Never", "Sometimes", "Often", "Always"], "polarity": "neg" },
+  { "id": 203, "question": "Do you take short breaks during study sessions?", "options": ["Always", "Often", "Sometimes", "Never"], "polarity": "pos" },
+  { "id": 204, "question": "How often do you compare yourself negatively with peers?", "options": ["Never", "Sometimes", "Often", "Always"], "polarity": "neg" },
+  { "id": 205, "question": "Do you maintain a regular sleep schedule?", "options": ["Always", "Often", "Sometimes", "Never"], "polarity": "pos" },
+  { "id": 206, "question": "How often do you feel anxious before classes or tests?", "options": ["Never", "Sometimes", "Often", "Always"], "polarity": "neg" },
+  { "id": 207, "question": "Do you engage in physical activity each week?", "options": ["≥5 days", "3–4 days", "1–2 days", "Rarely"], "polarity": "pos" },
+  { "id": 208, "question": "How often do you skip meals due to studying?", "options": ["Never", "Sometimes", "Often", "Always"], "polarity": "neg" },
+  { "id": 209, "question": "Do you limit late-night screen time?", "options": ["Always", "Often", "Sometimes", "Never"], "polarity": "pos" },
+  { "id": 210, "question": "How often do you feel lonely at campus/home?", "options": ["Never", "Sometimes", "Often", "Always"], "polarity": "neg" },
+  { "id": 211, "question": "Do you plan your day with a simple to-do list?", "options": ["Always", "Often", "Sometimes", "Never"], "polarity": "pos" },
+  { "id": 212, "question": "How frequently do you feel hopeless about studies?", "options": ["Never", "Sometimes", "Often", "Always"], "polarity": "neg" }
+]
