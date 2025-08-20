@@ -1,0 +1,6 @@
+[
+  { "id": 101, "question": "How often do you feel tense or 'on edge'?", "options": ["Never", "Sometimes", "Often", "Always"], "polarity": "neg" },
+  { "id": 102, "question": "How well did you sleep in the past week?", "options": ["Very well", "Okay", "Poor", "Very poor"], "polarity": "pos" },
+  { "id": 103, "question": "How often do you experience difficulty concentrating?", "options": ["Never", "Sometimes", "Often", "Always"], "polarity": "neg" },
+  { "id": 104, "question": "Do you feel you have someone to talk to when needed?", "options": ["Always", "Often", "Sometimes", "Never"], "polarity": "pos" }
+]
