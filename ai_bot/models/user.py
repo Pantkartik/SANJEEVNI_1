@@ -1,7 +1,7 @@
-from pydantic import BaseModel, Field
+class User:
+    def __init__(self, user_id: str):
+        self.user_id = user_id
+        self.history = []
 
-class UserInit(BaseModel):
-    name: str | None = None
-    age: int = Field(..., ge=12, le=100)
-    profession: str  # e.g., "student", "working", "others"
-    language: str | None = "en"
+    def add_to_history(self, question: str, answer: str):
+        self.history.append({"question": question, "answer": answer})
